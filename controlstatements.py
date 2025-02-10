@@ -1,4 +1,4 @@
-# Apython that checks for room temperature
+# A python that checks for room temperature
 from oparators import number
 
 temperature = 23

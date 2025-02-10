@@ -6,12 +6,14 @@ if (year % 4 == 0 and year % 100 != 0):
 else:
      print(year, "is not a leap year")
 
+
+
 # Program to check whether a letter is a vowel or a consonant
-letter = "a","e"
+letter = 'A'
 
 if letter in ("a","e"):
      print("vowel")
-elif letter in ("a","e"):
+elif letter in ("A","E"):
     print("vowel")
 else:
     print("consonant")
