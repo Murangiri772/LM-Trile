@@ -1,14 +1,22 @@
-class Employee:
-    def __init__(self):
-        self.__salary = 0
-
-    def set_salary(self, salary):
-        self.__salary = salary
-
-    def get_salary(self):
-        return self.__salary
+ class Truck:
+    __tank_capacity="40000L"
 
 
-e = Employee()
-e.set_salary(50000)
-print(e.get_salary())  # this will print 50000
+      def__init__full(self):
+    print("tank full!")
+
+
+
+class Truck:
+    _mileage=0
+
+
+def_drive(self):
+    self._mileage+=10
+
+
+
+class Truck:
+    color="red wine"
+def start(self):
+    print("car started")
